@@ -19,6 +19,7 @@ body {
 
   form{
     width: max-content;
+    margin: 0 auto;
   }
   
   h1 {
