@@ -16,6 +16,10 @@ body {
     text-align: center;
     width: 300px;
   }
+
+  form{
+    width: max-content;
+  }
   
   h1 {
     font-size: 1.5rem;
